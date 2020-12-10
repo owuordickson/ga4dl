@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: "Marziye Derakhshannia and Dickson Owuor"
+@author: "Dickson Owuor and Marziye Derakhshannia"
 @license: "MIT"
 @version: "1.0"
 @email: "dm.derakhshannia@gmail.com or owuordickson@gmail.com "
