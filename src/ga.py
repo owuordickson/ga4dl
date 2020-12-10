@@ -6,7 +6,7 @@
 @email: "dm.derakhshannia@gmail.com or owuordickson@gmail.com "
 @created: "07 November 2020"
 
-Description: genetic heuristic algorithm that optimizes data lake jobs
+Description: genetic algorithm that optimizes data lake jobs
 
 """
 
