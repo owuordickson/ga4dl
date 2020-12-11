@@ -88,7 +88,7 @@ def run(problem, params):
 
         # Merge, Sort and Select
         pop += popc
-        pop = sorted(pop, key=lambda x:x.cost)
+        pop = sorted(pop, key=lambda x: x.cost)
         pop = pop[0:npop]
 
         # Store Best Cost
